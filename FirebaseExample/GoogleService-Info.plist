@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>158586900731-64g3h7iqpben2k1mp8hnt1a1lv8rac5i.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.158586900731-64g3h7iqpben2k1mp8hnt1a1lv8rac5i</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDPNW9awcdKRI9hDbP1zE_IzgBLm9PcYUU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>158586900731</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.honeywell.sugeet.FirebaseExample</string>
+	<key>PROJECT_ID</key>
+	<string>fir-example-b32ae</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-example-b32ae.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:158586900731:ios:34b7b2e6e25ab87f</string>
+	<key>DATABASE_URL</key>
+	<string>https://fir-example-b32ae.firebaseio.com</string>
+</dict>
+</plist>
